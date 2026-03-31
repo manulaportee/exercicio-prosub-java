@@ -66,7 +66,7 @@ Status: ACESSO NEGADO: Soberania Nacional preservada.
 --------------------------------------
 ```
 Imagem do sistema em funcionamento:
-[ImagemSistemaFuncionando]!(https://github.com/manulaportee/exercicio-prosub-java/blob/main/Captura%20de%20tela%202026-03-31%20204520.png)
+![ImagemSistemaFuncionando](https://github.com/manulaportee/exercicio-prosub-java/blob/main/Captura%20de%20tela%202026-03-31%20204520.png)
 ---
 
 ## 🛠️ Critérios de Avaliação
